@@ -1,0 +1,10 @@
+Comienzo del texto
+ estudiar Python 
+ el miï¿½rcoles
+ siempre es una buena ocasiï¿½n para estudiar PythonComienzo del texto
+Comienzo del texto
+Comienzo del texto
+Esta línea ha sido incluida desde el exterior
+ el miï¿½rcoles
+ siempre es una buena ocasiï¿½n para estudiar PythonComienzo del texto
+Comienzo del texto
